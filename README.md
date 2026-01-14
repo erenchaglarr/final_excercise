@@ -1,7 +1,7 @@
 ````markdown
 # corrupted_mnist_02476
 
-In this projectct I work with mnist dataset that is corrupted and also apply different techniques from the course to learn more about MLOps
+In this project I work with MNIST dataset that is corrupted and also apply different techniques from the course to learn more about MLOps.
 
 ## Project structure
 
